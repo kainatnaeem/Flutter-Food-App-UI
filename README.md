@@ -1,7 +1,7 @@
 # Flutter Food App UI Ktech
 
 
-![Food App Flutter by Ktech](https://user-images.githubusercontent.com/54583829/185768133-9cfb965b-d941-48d0-aa0b-92c36af8a70c.png)
+
 
 
 A new Flutter project.
